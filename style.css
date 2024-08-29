@@ -1,0 +1,17 @@
+body{
+    background-color: blueviolet;
+    color:white;
+}
+div a{
+    color: gold;
+    text-align: center;
+    font-size: large;
+    text-decoration: none;
+}
+div{
+    text-align: center;
+}
+img{
+    height: 400px;
+    width: 600px;
+}
